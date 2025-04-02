@@ -140,7 +140,7 @@ async function fetchChatbotResponse(query) {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": "Bearer YOUR_OPENAI_API_KEY"
+      "Authorization": "Bearer yeAtBsjhsEUO8kLJTNkEac01pGuURhoTQ6Gwj6Hv"
     },
     body: JSON.stringify({
       model: "gpt-4",
